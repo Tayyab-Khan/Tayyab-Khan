@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Tayyab Khan
 
-<!--
-**Tayyab-Khan/Tayyab-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+I'm starting my coding journey, learning **C programming** and exploring the fundamentals of problem-solving and software development.
+---
+🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 Student of Programming Fundamentals
+* 💻 Passionate about writing clean and efficient code
+* 🌱 Currently learning: **C, Git & GitHub, problem-solving basics**
+* 🎯 Goal: Build strong foundations for real-world software projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 Skills
+
+* C Programming
+* Git & GitHub
+* Debugging & Problem Solving
+
+---
+
+📂 Current Work
+
+* **Programming Fundamentals (PF)** repository
+  Includes Complex Computing Problem (CCP) proposal & projects
+
+---
+
+🌟 Group / Brand
+
+**ZenCoders** — Our coding identity for projects and future collaborations
+
+---
+
+📫 Connect
+Email: tayyabkhanbcit@gmail.com
+LinkedIn: https://www.linkedin.com/in/tayyab-khan-00417037b/
