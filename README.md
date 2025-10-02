@@ -34,5 +34,5 @@ I'm starting my coding journey, learning **C programming** and exploring the fun
 ---
 
 📫 Connect
-Email: tayyabkhanbcit@gmail.com
-LinkedIn: https://www.linkedin.com/in/tayyab-khan-00417037b/
+* Email: tayyabkhanbcit@gmail.com
+* LinkedIn: https://www.linkedin.com/in/tayyab-khan-00417037b/
