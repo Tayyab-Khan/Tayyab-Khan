@@ -24,4 +24,37 @@
 
 **Web Development:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS]([https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge_)_]()
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Featured Projects & Work
+
+* 🎮 **Oregon Trail:** A C++ Object-Oriented Programming (OOP) project developed as part of my coursework.
+* 🔎 **AutoComplete Search Engine:** A C++17 DSA project implementing a Prefix Trie, DFS, Min-Heap/Priority Queue, and Levenshtein Distance for search suggestions and correction.
+* 🛒 **MamaPapa Store:** Developing a premium e-commerce web application using Next.js, TypeScript, and Tailwind CSS.
+* 💱 **Currency Converter:** A C programming project developed during my first semester.
+* 🌟 **ZenCoders:** Our coding identity for group projects and collaborative software development.
+
+---
+
+## 🎓 Certifications
+
+* 🤖 **Google AI Professional Certificate:** Completed through Coursera, covering foundational concepts and practical applications of Artificial Intelligence.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:tayyabkhanbcit@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/tayyab-khan-cs/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
